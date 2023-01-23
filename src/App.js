@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          React App.
+          Demo CICD Pipeline.
         </p>
         <a
           className="App-link"
